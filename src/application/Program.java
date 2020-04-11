@@ -12,6 +12,7 @@ public class Program {
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		
+		// lista ficou show
 		List<Funcionario> list = new ArrayList<>();
 		Scanner sc = new Scanner(System.in);
 		Funcionario f = new Funcionario();
